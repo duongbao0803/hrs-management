@@ -1,0 +1,7 @@
+Hourly|546|Le|Bao|12/12/2022|0940359445|lenguyengiabao@gmail.com|34.0|54.0|Marketing
+Hourly|999|Dang|Duc|17/02/2003|0389482983|ducdang@gmail.com|34.0|100.0|IT
+Salary|677|Duong|Bao|23/07/2003|0909435433|duongbao@gmail.com|34.0|54.0|65.0|HR
+Salary|885|Jack|5 cu|09/01/2000|0955555555|jack@gmail.com|34.0|54.0|56.0|IT
+Hourly|547|Bao|Dien|10/10/2022|0940359345|lenguyengiabao@gmail.com|34.0|54.0|HR
+Hourly|997|Duong|Duc|18/10/2003|0389482967|ducduong@gmail.com|35.0|99.0|IT
+Salary|679|Duong|An|23/07/2003|0909113114|duongbaoclone@gmail.com|45.0|65.0|65.0|HR
