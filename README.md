@@ -19,4 +19,4 @@ management, the project optimizes human resource management processes.
 
 ##### Contact me via: tonbao0803@gmail.com
 
-##### Copyright &#169; 2023
+##### Copyright &#169; 2023 Duong Bao
