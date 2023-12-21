@@ -2,7 +2,7 @@
 
 #### Author:
 
-- Dương Tôn Bảo - SE171065
+- Dương Tôn Bảo 
 
 #### Introduction:
 
